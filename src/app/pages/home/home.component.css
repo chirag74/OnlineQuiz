@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 86vh;
+    width: 100%;
+    padding: 50px;
+    /* border: 1px solid black; */
+
+}
+img{
+    height: 430px;
+    width: 450px;
+}
+.firstdiv{
+    width: 45%;
+}
+.heading{
+    color: #033a9b;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 60px;
+}
+.prohead{
+    font-size: 45px;
+}
+.para{
+    font-size: 18px;
+    color:#118ab7;
+}
+.line{
+    width: 50px;
+    border: 2px solid #033a9b;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+.somelines{
+    text-align: left;
+    font-size: 13px;
+    color: #118ab7;
+}
+button{
+    margin-top: 20px;
+}
